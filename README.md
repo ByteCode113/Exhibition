@@ -1,7 +1,7 @@
 # Exhibition
 a script that me and my dev team will be working on 
 
---- def not from meteor client :trollface:
+-- def not from meteor client :trollface:
 <p align="center">
 <img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
 </p>
